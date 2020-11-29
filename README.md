@@ -1,7 +1,7 @@
 # Chess
 
 ## Environment :-
-  ######HTML, CSS, JS -> Beginner######
+  ###### HTML, CSS, JS -> Beginner
   
 ## Display :-
   Wooden style board
