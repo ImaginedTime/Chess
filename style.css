@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+#con{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	background: black;
+}
+
+#con > div{
+	float: left;
+	text-align: center;
+}
+
+img{
+	width: 69%;
+}
